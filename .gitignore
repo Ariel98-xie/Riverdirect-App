@@ -1,0 +1,11 @@
+# 安装包只放 Releases，不进入 Git 历史。
+*.exe
+*.apk
+*.zip
+data/
+private-signing/
+*.keystore
+*.jks
+.env*
+.DS_Store
+Thumbs.db
